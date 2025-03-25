@@ -27,7 +27,6 @@ public class Compromisso {
                 dataFim.format(formatter));
     }
 
-    // Getters mantidos
     public LocalDateTime getDataInicio() {
         return dataInicio;
     }
